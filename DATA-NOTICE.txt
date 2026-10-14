@@ -1,0 +1,19 @@
+NFL Showdown public release — October 14, 2026
+
+Historical statistics: nflverse contributors / nflverse-data; FTN Data via nflverse as attributed in the original workspace.
+Source: https://github.com/nflverse/nflverse-data/releases/tag/stats_player
+Upstream repository license: Creative Commons Attribution 4.0 International. FTN-sourced data uses Attribution-ShareAlike 4.0. This transformed bundled statistical snapshot is distributed under CC BY-SA 4.0 to preserve the stricter attribution/share-alike obligations.
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
+https://nflreadr.nflverse.com/reference/load_ftn_charting.html
+https://github.com/nflverse/nflverse-data/blob/main/LICENSE.md
+
+Changes: source records converted to browser JavaScript tables; headshot URLs removed; DK point estimates and normalized team codes included from the existing workspace. Coverage: 2025 regular season and 2026 Weeks 1–4 as imported October 12, 2026. This is a dated snapshot; source corrections are not automatically fetched.
+
+Bundled salaries are synthetic examples, not DraftKings prices. No private Sheet URLs, official contest player IDs, screenshot-based winner research, betting split snapshots, or archived prop boards are included. User CSV imports and edits stay in local browser storage. Browser storage is not encrypted; do not import confidential data on a shared device.
+
+DraftKings scoring reference: https://www.draftkings.com/help/rules/1/96
+Scoring is unofficial. Ownership estimates are subjective and editable. There is no live feed or wagering integration. NFL and DraftKings trademarks belong to their owners; this project is unaffiliated.
+
+Application code: copyright 2026 hicksanalytics. No open-source license is granted by this release. The CC BY-SA 4.0 notice above applies to the transformed statistical dataset, not automatically to the application code.
+
